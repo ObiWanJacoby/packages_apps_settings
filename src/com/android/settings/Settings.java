@@ -125,6 +125,7 @@ public class Settings extends PreferenceActivity
             R.id.rom_control,
             R.id.themes,
             R.id.performance,
+            R.id.chronus,
             R.id.advanced_settings
     };
 

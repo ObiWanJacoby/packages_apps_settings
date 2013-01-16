@@ -4429,6 +4429,7 @@
     <string name="rom_control_title">ROM Control</string>
     <string name="themes_title">Themes</string>
     <string name="performance_title">Performance Control</string>
+    <string name="chronus_title">Chronus Settings</string>
     <string name="animation_manager_title">Animation Manager</string>
     <string name="ota_app_title">AOKP OTA</string>
 
